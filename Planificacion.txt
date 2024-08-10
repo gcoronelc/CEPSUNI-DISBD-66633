@@ -1,0 +1,21 @@
+FECHA DE ENTREGA (INFORME + EXPOSICION/VIDEO)
+-----------------------------------------------
+Clase 0 10.SET.2024: => Clase introductoria
+Clase 1 17.AGO.2024: => Solo clase 
+Clase 2 24.AGO.2024: => PC1
+Clase 3 32.AGO.2024: => PC2
+Clase 4 07.SET.2024: => PC3
+Clase 5 14.SET.2024: => PC4
+Clase 6 21.SET.2024: => EXAMEN FINAL
+
+
+SISTEMA DE CALIFICACIÓN
+-------------------------------------------------
+- 4 Practicas Calificadas
+- 1 Examen Final
+- PP = ( pc1 + pc2 + pc3 + pc4 - MenorPC ) / 3
+- PF = ( PP + EF ) / 2
+
+Correo de entrega de practicas: egcc.uni@gmail.com
+En asunto: DISBD-66633-GRUPO-#-PRACTICA-#
+
